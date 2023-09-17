@@ -1,4 +1,4 @@
-# Telegram Bot using Python - eCommerce
+# Telegram Bot using Python and Node - eCommerce
 ### How to install this bot ?
 
 - If You want to use extra features like speech service and database to store active users then use Master branch (You have to enter mongoDb connection url in .env)
